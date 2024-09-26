@@ -176,8 +176,8 @@ a {
 }
 
 .user-image {
-    height :400px;
-    width:400px
+    height :40px;
+    width:40px
     padding: 2.5rem;
     filter: grayscale(1);
     transition: all 1s;
